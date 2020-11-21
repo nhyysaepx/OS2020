@@ -1,4 +1,4 @@
 # OS2020
 
-Daniel Hagimont
-hagimont@enseeiht.fr
+Nguyễn Tương Quỳnh 
+quynhnt.bi10-154@st.usth.edu.vn
